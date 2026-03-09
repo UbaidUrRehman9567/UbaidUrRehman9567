@@ -79,7 +79,7 @@ I am particularly interested in roles that combine data science, AI strategy, an
 ## 📫 Let’s Connect
 
 📧 Email: ubaidurrehman9567@gmail.com  
-💻 GitHub: https://github.com/Ubaidmalik9567  
+💻 GitHub: https://github.com/UbaidUrRehman9567  
 🔗 LinkedIn: https://www.linkedin.com/in/ubaid-ur-rehman-592682331  
 
 
