@@ -3,7 +3,7 @@
 I'm **Ubaid Ur Rehman**, and I'm glad you're here. Here’s a little about me.
 
 
-## 👀 Data Science & AI for Business and Systems Impact
+## Data Science & AI for Business and Systems Impact
 
 I explore the depths of data to uncover actionable insights and build intelligent, scalable systems.  
 My interest lies not only in developing machine learning models, but also in designing AI-driven solutions that create measurable business and operational impact.
