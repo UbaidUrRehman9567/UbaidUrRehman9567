@@ -45,7 +45,7 @@ This balance enables me to contribute as both a technical AI practitioner and a 
 
 ## Areas of Applied AI & Systems Expertise
 
-### 🔹 Data Science & AI
+### Data Science & AI
 - Machine Learning (Supervised & Unsupervised)
 - Deep Learning & LLM Applications
 - Predictive Modeling & API-based ML Systems
@@ -53,7 +53,7 @@ This balance enables me to contribute as both a technical AI practitioner and a 
 - Data Preprocessing & Feature Engineering
 - Model Evaluation & Performance Optimization
 
-### 🔹 Business & Systems Perspective
+### Business & Systems Perspective
 - Business Process Analysis
 - AI Opportunity Identification
 - Requirements & Solution Structuring
@@ -74,7 +74,7 @@ Git • Postman
 ## Belief in Lifelong Learning
 
 I continuously refine my expertise through research, real-world projects, and structured learning.
-I am particularly interested in roles that combine data science, AI strategy, and system-level problem solving.
+I am particularly interested in roles that combine data science, AI strategy, and system-level problem-solving.
 
 ## Let’s Connect
 
